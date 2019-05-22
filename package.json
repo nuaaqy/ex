@@ -1,0 +1,23 @@
+{
+  "name": "ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuaaqy/ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuaaqy/ex/issues"
+  },
+  "homepage": "https://github.com/nuaaqy/ex#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.0"
+  }
+}
