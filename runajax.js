@@ -4,9 +4,10 @@ const { window } = new JSDOM(`<!DOCTYPE html>`);
 const $ = require('jQuery')(window);
 
 const exList = [
-    {"name":"多个用户信息","path":"user.json"},
-    {"name":"单个用户信息","path":"oneuser.json"},
-    {"name":"用户信息列表","path":"users.json"}
+    //{"name":"多个用户信息","path":"user.json"},
+    //{"name":"单个用户信息","path":"oneuser.json"},
+    //{"name":"用户信息列表","path":"users.json"}
+    {"name":"页面信息","path":"pageData.json"}
 ];
 
 
